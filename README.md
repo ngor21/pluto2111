@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pluto2111
 - 👀 I’m interested in deep learning, computer vision, automated data annotation and innovative startups 
 - 🌱 I’m currently learning neural networks for computer vision
-- 💞️ I’m looking to collaborate on computer vision project
+- 💞️ I’m looking to collaborate on deep learning project
 - 📫 How to reach me linkedin.code@gmail.com
 
 <!---
